@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Yoga Classes",
+      "features": "Unlimited access to yoga classes", 
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Weight Training",
+      "features": "Unlimited access to weight training equipment",
+      "price": 40
+    },
+    {
+      "id": 3,
+      "name": "Cardio Machines",
+      "features": "Unlimited access to cardio machines",
+      "price": 35
+    }
+  ]
+  
